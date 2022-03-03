@@ -1,6 +1,7 @@
 # VRC Slideshow-Importer
 Bring Slideshow or PDF into VRChat with slide/page toggles easily !!
-Just drag and drop 
+Just drag and drop.
+This tool is parameter optimized and takes only 3 memory on your VRC synced parameter controller for a slideshow of N slides.
 
 ## Example slideshow
 
